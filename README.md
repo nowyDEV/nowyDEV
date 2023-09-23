@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![nowyDEV's GitHub stats](https://github-readme-stats-nowydev.vercel.app/api?username=nowyDEV&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,COLLABORATOR&theme=yeblu&hide=stars&show=prs_merged_percentage)](https://github.com/nowyDEV/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=go_aoc_2020&theme=yeblu)](https://github.com/nowyDEV/go_aoc_2020)
