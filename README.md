@@ -1,5 +1,5 @@
 [![nowyDEV's GitHub stats](https://github-readme-stats-nowydev.vercel.app/api?username=nowyDEV&show=reviews&show_icons=true&theme=yeblu)](https://github.com/nowyDEV/github-readme-stats)
-[![nowyDEV's GitHub stat](github-readme-stats-one-bice.vercel.app/api?username=nowyDEV&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=yeblu)](https://github.com/nowyDEV/github-readme-stats)
+[![nowyDEV's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=nowyDEV&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=yeblu)](https://github.com/nowyDEV/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=go_aoc_2020&theme=yeblu)](https://github.com/nowyDEV/go_aoc_2020)
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=state-machines-workshop&theme=yeblu)](https://github.com/nowyDEV/state-machines-workshop)
