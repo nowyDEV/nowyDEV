@@ -2,7 +2,7 @@
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=go_aoc_2020)](https://github.com/nowyDEV/github-readme-stats)
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=state-machines-workshop)](https://github.com/nowyDEV/github-readme-stats)
 [![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=bitnoise-cypress-presentation)](https://github.com/nowyDEV/github-readme-stats)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=nordcloud/GNUI)](https://github.com/nowyDEV/github-readme-stats)
+[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=GNUI)](https://github.com/nowyDEV/github-readme-stats)
 
 <!--
 **nowyDEV/nowyDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
