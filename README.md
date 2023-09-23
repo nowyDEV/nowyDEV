@@ -1,4 +1,4 @@
-[![MasterHead](./bg.png)]([your GitHub link](https://github.com/nowyDEV))
+[![MasterHead](./bg.png)](https://github.com/nowyDEV)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
