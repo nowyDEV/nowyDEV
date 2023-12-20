@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 [![MasterHead](./bg.png)](https://github.com/nowyDEV)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
@@ -29,3 +30,11 @@
 - [100 weeks of newsletters](https://nowy.dev/posts/100-weeks-newsletters/)
 - [Automate the release stuff on GitHub](https://nowy.dev/posts/automatic-release-os-package/)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="header.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
