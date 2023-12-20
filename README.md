@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?theme=tokyonight&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
 
-![header](https://capsule-render.vercel.app/api?theme=dark&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
-
-![header](https://capsule-render.vercel.app/api?theme=onedark&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
-
-![header](https://capsule-render.vercel.app/api?theme=radical&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
-
-![header](https://capsule-render.vercel.app/api?theme=merko&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
-
-![header](https://capsule-render.vercel.app/api?theme=gruvbox&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Stats
@@ -40,4 +30,4 @@
   <!-- BLOG:START --><!-- BLOG:END -->
 </table>
 
-![footer](https://capsule-render.vercel.app/api?theme=cobalt&section=footer&type=waving&height=120&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?theme=tokyonight&section=footer&type=waving&height=120&animation=fadeIn)
