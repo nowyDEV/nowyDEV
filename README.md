@@ -23,16 +23,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-## Repos
-
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=ts_aoc_2023&theme=yeblu)](https://github.com/nowyDEV/ts_aoc_2023)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=aot_2023&theme=yeblu)](https://github.com/nowyDEV/aot_2023)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=pat-frontend-template&theme=yeblu)](https://github.com/nordcloud/pat-frontend-template)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=eslint-config-pat&theme=yeblu&show_owner=true)](https://github.com/nordcloud/eslint-config-pat)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=state-machines-workshop&theme=yeblu&show_owner=true)](https://github.com/nowyDEV/state-machines-workshop)
-[![Readme Card](https://github-readme-stats-nowydev.vercel.app/api/pin?username=nowyDEV&repo=go_aoc_2020&theme=yeblu&show_owner=true)](https://github.com/nowyDEV/go_aoc_2020)
-
-# Blog posts
+## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
