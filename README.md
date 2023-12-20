@@ -26,4 +26,6 @@
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [100 weeks of newsletters](https://nowy.dev/posts/100-weeks-newsletters/)
+- [Automate the release stuff on GitHub](https://nowy.dev/posts/automatic-release-os-package/)
 <!-- BLOG-POST-LIST:END -->
