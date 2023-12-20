@@ -16,4 +16,4 @@ jobs:
       - name: Pull in nowy.dev posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://nowydev-blog.vercel.app/rss.xml"
+          feed_list: "https://nowy.dev/rss.xml"
