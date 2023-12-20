@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://nowy.dev/rss.xml"
+          comment_tag_name: "BLOG"
+          template: "<tr><td>$title</td><td>$url</td></tr>"
