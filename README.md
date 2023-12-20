@@ -56,7 +56,7 @@
 
 <table>
   <tr><th>Title</th><th>Link</th></tr>
-  <!-- BLOG:START --><!-- BLOG:END -->
+  <!-- BLOG:START --><tr><td>100 weeks of newsletters</td><td>https://nowy.dev/posts/100-weeks-newsletters/</td></tr><tr><td>Automate the release stuff on GitHub</td><td>https://nowy.dev/posts/automatic-release-os-package/</td></tr><!-- BLOG:END -->
 </table>
 
 ![footer](https://capsule-render.vercel.app/api?theme=tokyonight&section=footer&type=waving&height=120&animation=fadeIn)
