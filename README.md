@@ -59,4 +59,4 @@
   <!-- BLOG:START --><tr><td>100 weeks of newsletters</td><td>https://nowy.dev/posts/100-weeks-newsletters/</td></tr><tr><td>Automate the release stuff on GitHub</td><td>https://nowy.dev/posts/automatic-release-os-package/</td></tr><!-- BLOG:END -->
 </table>
 
-![footer](https://capsule-render.vercel.app/api?theme=tokyonight&section=footer&type=waving&height=120&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&animation=fadeIn&color=0:020024,30:090979,100:000000)
