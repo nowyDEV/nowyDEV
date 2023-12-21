@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=25&fontAlignY=40&fontSize=30&fontColor=FFFFFF&color=0:FF9D00,50:9EFFFF,100:15232D)
+![header](https://capsule-render.vercel.app/api?&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=25&fontAlignY=40&fontSize=30&fontColor=FFFFFF&color=0:020024,30:090979,100:15232D)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
