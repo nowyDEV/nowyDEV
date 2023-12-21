@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?theme=tokyonight&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=80&fontAlignY=40&fontSize=30)
+![header](https://capsule-render.vercel.app/api?&section=header&text=Hey%20there%2C%20I'm%20Dominik&animation=fadeIn&type=waving&height=200&fontAlign=25&fontAlignY=40&fontSize=30&fontColor=FFFFFF&color=0:020024,30:090979,100:000000)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nowyDEV&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -59,4 +59,4 @@
   <!-- BLOG:START --><tr><td>100 weeks of newsletters</td><td>https://nowy.dev/posts/100-weeks-newsletters/</td></tr><tr><td>Automate the release stuff on GitHub</td><td>https://nowy.dev/posts/automatic-release-os-package/</td></tr><!-- BLOG:END -->
 </table>
 
-![footer](https://capsule-render.vercel.app/api?theme=tokyonight&section=footer&type=waving&height=120&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&animation=fadeIn&color=0:020024,30:090979,100:000000)
